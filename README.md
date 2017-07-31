@@ -1,2 +1,3 @@
 # clj-examples
-Comparing Java and Clojure for presentation purposes
+
+This is an example Clojure project for presentation purposes.
